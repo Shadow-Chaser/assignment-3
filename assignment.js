@@ -75,3 +75,4 @@ function megaFriend(nameOfFriends)
     return largeName;
     }
 }
+
