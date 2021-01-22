@@ -48,7 +48,7 @@ function hotelCost(numberOfDays){
 
     else if(numberOfDays>20)
     {
-        sum = ((numberOfDays - 20)* 50) + 10*100 + 10 * 80;
+        sum = ((numberOfDays - 20)* 50) + 10*100 + 10*80;
     }
 
     return sum;
@@ -75,4 +75,3 @@ function megaFriend(nameOfFriends)
     return largeName;
     }
 }
-
